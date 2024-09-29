@@ -15,9 +15,7 @@ Blogy-SMR is a simple yet powerful blog management system that allows users to c
 - **HTML5**: Structure the web pages.
 - **CSS3**: Style the application with custom designs.
 - **JavaScript**: Add interactivity and dynamic functionality.
-- **React**: Build a fast and responsive UI.
-- **Node.js**: Backend development for server-side functionality.
-- **MongoDB**: Database to store blog posts and user information.
+  
 
 ## Installation
 
