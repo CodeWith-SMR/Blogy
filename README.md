@@ -25,6 +25,3 @@ Blogy-SMR is a simple yet powerful blog management system that allows users to c
    ```bash
    https://codewith-smr.github.io/Blogy-SMR/
 
-cd Blogy-SMR
-npm install
-npm start
